@@ -2,6 +2,7 @@ import streamlit as st
 import math
 
 # Dataset
+# Genre, Multiplayer Y/N, Story, Graphics, Length.
 dataset = [
     {"name": "The Witcher 3", "features": [1, 0, 10, 9, 9]},
     {"name": "Skyrim", "features": [1, 0, 9, 8, 10]},
