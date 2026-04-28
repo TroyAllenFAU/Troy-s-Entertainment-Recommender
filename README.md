@@ -2,10 +2,11 @@
 My second attempt at making a proper repository for my recommendation algorithm
 
 ## How to Run
-```bash
 
 First, you need to install streamlit by running this in your terminal. (Scary I know.)
-pip install streamlit
 
-Then once it's installed, you can now run the fily by running this in the terminal 
-python -m streamlit run ShowAI.py
+**pip install streamlit**
+
+Then once you have it installed, you can now run the file by running this command right after
+
+**python -m streamlit run ShowAI.py**
